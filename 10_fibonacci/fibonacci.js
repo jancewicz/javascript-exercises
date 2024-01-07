@@ -1,6 +1,11 @@
-const fibonacci = function() {
+const fibonacci = function () {
 
 };
 
 // Do not edit below this line
 module.exports = fibonacci;
+
+
+fibo = [0, 1, 1, 2, 3, 5, 8, 13, 21, 34....]
+
+
